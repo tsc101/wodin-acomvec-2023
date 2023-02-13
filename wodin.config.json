@@ -1,0 +1,9 @@
+{
+    "courseTitle": "Malawi Infectious Disease Modelling",
+    "savePrefix": "malawi-idm-2022",
+    "port": 3000,
+    "appsPath": "apps",
+    "baseUrl": "https://epimodels.dide.ic.ac.uk/malawi-idm-2022",
+    "odinAPI": "http://odin.api:8001",
+    "redisUrl": "redis://redis:6379"
+}
